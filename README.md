@@ -1,1 +1,1 @@
-# Dark-and-light-themed-webpage
+This repository contains HTML, CSS and Javascript to switch between dark and light theme of a single page webpage. Once landed on the webpage, basic css including alingment and font style, etc.. is applied, upon clicking of the respective button, dark or light theme is applied.
